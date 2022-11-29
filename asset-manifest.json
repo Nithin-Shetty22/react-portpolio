@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portpolio/static/css/main.da4576a2.css",
+    "main.js": "/react-portpolio/static/js/main.cbc6a7b7.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/react-portpolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/profilephoto.jpeg": "/react-portpolio/static/media/profilephoto.e0edd630a438c67ffe4f.jpeg",
+    "static/media/Poppins-Thin.ttf": "/react-portpolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/react-portpolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/react-portpolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/react-portpolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/react-portpolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/react-portpolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/react-portpolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/bg.jpg": "/react-portpolio/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/react-portpolio/index.html",
+    "main.da4576a2.css.map": "/react-portpolio/static/css/main.da4576a2.css.map",
+    "main.cbc6a7b7.js.map": "/react-portpolio/static/js/main.cbc6a7b7.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/react-portpolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da4576a2.css",
+    "static/js/main.cbc6a7b7.js"
+  ]
+}
